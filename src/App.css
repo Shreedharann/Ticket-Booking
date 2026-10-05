@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+/* @keyframes moveBus {
+  0% {
+    transform: translateX(-100px);
+  }
+  100% {
+    transform: translateX(100vw);
+  }
+}
+
+.animate-bus {
+  animation: moveBus 12s linear infinite;
+} */
+@keyframes moveBus {
+  1000% {
+    transform: translateyX(-300px);
+  }
+  0% {
+    transform: translateX(100vw);
+  }
+}
+
+.animate-bus {
+  animation: moveBus 15s linear infinite;
+}
+
+.badge {
+  background: #e0e7ff;
+  color: #3730a3;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "users": [
+    {
+      "id": "999",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "d50b",
+      "name": "Shree",
+      "email": "Shree@gmail.com",
+      "password": "Shree123",
+      "role": "user"
+    },
+    {
+      "id": "126a",
+      "name": "Akshay",
+      "email": "akshay@gmail.com",
+      "password": "akshay@123",
+      "role": "user"
+    }
+  ],
+  "buses": [
+    {
+      "id": "2",
+      "name": "National Travels",
+      "type": "AC Seater",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "time": "08:30 AM",
+      "price": "800",
+      "totalSeats": 25,
+      "bookedSeats": [],
+      "rating": 4.1
+    },
+    {
+      "id": "3",
+      "name": "GreenLine Travels",
+      "type": "AC Seater",
+      "source": "Bangalore",
+      "destination": "Chennai",
+      "time": "11:00 AM",
+      "price": 750,
+      "totalSeats": 28,
+      "rating": 4.3,
+      "bookedSeats": []
+    },
+    {
+      "id": "4",
+      "name": "Royal Express",
+      "type": "AC Sleeper",
+      "source": "Chennai",
+      "destination": "Coimbatore",
+      "time": "01:45 PM",
+      "price": 1200,
+      "totalSeats": 20,
+      "rating": 4.7,
+      "bookedSeats": []
+    },
+    {
+      "id": "5",
+      "name": "Speed Wheels",
+      "type": "Non-AC Sleeper",
+      "source": "Hyderabad",
+      "destination": "Bangalore",
+      "time": "03:30 PM",
+      "price": 950,
+      "totalSeats": 20,
+      "rating": 4,
+      "bookedSeats": []
+    },
+    {
+      "id": "6",
+      "name": "Skyline Travels",
+      "type": "AC Seater",
+      "source": "Bangalore",
+      "destination": "Coimbatore",
+      "time": "05:00 PM",
+      "price": 1100,
+      "totalSeats": 28,
+      "rating": 4.4,
+      "bookedSeats": []
+    },
+    {
+      "id": "7",
+      "name": "Blue Star Bus",
+      "type": "Non-AC Seater",
+      "source": "Chennai",
+      "destination": "Madurai",
+      "time": "06:30 PM",
+      "price": 700,
+      "totalSeats": 32,
+      "rating": 3.9,
+      "bookedSeats": []
+    },
+    {
+      "id": "8",
+      "name": "Southern Express",
+      "type": "AC Sleeper",
+      "source": "Coimbatore",
+      "destination": "Chennai",
+      "time": "07:45 PM",
+      "price": 1250,
+      "totalSeats": 18,
+      "rating": 4.8,
+      "bookedSeats": []
+    },
+    {
+      "id": "9",
+      "name": "City Link",
+      "type": "AC Seater",
+      "source": "Hyderabad",
+      "destination": "Chennai",
+      "time": "09:00 PM",
+      "price": 980,
+      "totalSeats": 33,
+      "rating": 4.2,
+      "bookedSeats": []
+    },
+    {
+      "id": "10",
+      "name": "Metro Travels",
+      "type": "Non-AC Sleeper",
+      "source": "Bangalore",
+      "destination": "Hyderabad",
+      "time": "10:15 PM",
+      "price": 900,
+      "totalSeats": 20,
+      "rating": 4,
+      "bookedSeats": [
+        "S7",
+        "S11",
+        "S8"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Golden Wheels",
+      "type": "AC Sleeper",
+      "source": "Chennai",
+      "destination": "Trichy",
+      "time": "05:30 AM",
+      "price": 800,
+      "totalSeats": 23,
+      "rating": 4.6,
+      "bookedSeats": []
+    },
+    {
+      "id": "12",
+      "name": "Fast Track",
+      "type": "AC Seater",
+      "source": "Trichy",
+      "destination": "Chennai",
+      "time": "07:00 AM",
+      "price": 720,
+      "totalSeats": 36,
+      "rating": 4.1,
+      "bookedSeats": []
+    },
+    {
+      "id": "13",
+      "name": "Oceanic Travels",
+      "type": "Non-AC Seater",
+      "source": "Chennai",
+      "destination": "Pondicherry",
+      "time": "09:15 AM",
+      "price": 450,
+      "totalSeats": 32,
+      "rating": 3.8,
+      "bookedSeats": []
+    },
+    {
+      "id": "14",
+      "name": "Sunrise Express",
+      "type": "AC Seater",
+      "source": "Pondicherry",
+      "destination": "Chennai",
+      "time": "12:30 PM",
+      "price": 480,
+      "totalSeats": 38,
+      "rating": 4,
+      "bookedSeats": []
+    },
+    {
+      "id": "15",
+      "name": "Night Rider",
+      "type": "AC Sleeper",
+      "source": "Bangalore",
+      "destination": "Madurai",
+      "time": "08:00 PM",
+      "price": 1400,
+      "totalSeats": 26,
+      "rating": 4.9,
+      "bookedSeats": []
+    },
+    {
+      "id": "16",
+      "name": "Hill View Travels",
+      "type": "Non-AC Sleeper",
+      "source": "Coimbatore",
+      "destination": "Ooty",
+      "time": "06:00 AM",
+      "price": 600,
+      "totalSeats": 24,
+      "rating": 4.3,
+      "bookedSeats": []
+    },
+    {
+      "id": "17",
+      "name": "Rapid Line",
+      "type": "AC Seater",
+      "source": "Madurai",
+      "destination": "Chennai",
+      "time": "02:15 PM",
+      "price": 850,
+      "totalSeats": 36,
+      "rating": 4.2,
+      "bookedSeats": []
+    },
+    {
+      "id": "18",
+      "name": "Comfort Ride",
+      "type": "Non-AC Seater",
+      "source": "Hyderabad",
+      "destination": "Vijayawada",
+      "time": "04:00 PM",
+      "price": 500,
+      "totalSeats": 42,
+      "rating": 3.9,
+      "bookedSeats": []
+    },
+    {
+      "id": "19",
+      "name": "Elite Travels",
+      "type": "AC Sleeper",
+      "source": "Vijayawada",
+      "destination": "Hyderabad",
+      "time": "09:30 PM",
+      "price": 780,
+      "totalSeats": 30,
+      "rating": 4.4,
+      "bookedSeats": []
+    },
+    {
+      "id": "20",
+      "name": "Urban Connect",
+      "type": "AC Seater",
+      "source": "Chennai",
+      "destination": "Bangalore",
+      "time": "11:45 PM",
+      "price": 920,
+      "totalSeats": 38,
+      "rating": 4.6,
+      "bookedSeats": [
+        "S36",
+        "S35"
+      ]
+    },
+    {
+      "id": "dea4",
+      "name": "Kms Travels",
+      "type": "Sleeper",
+      "source": "Coimbatore",
+      "destination": "Bangalore",
+      "time": "14.00",
+      "price": 600,
+      "totalSeats": 30,
+      "rating": 4.5,
+      "bookedSeats": []
+    }
+  ],
+  "bookings": [
+    {
+      "id": "9203",
+      "busId": "13",
+      "busName": "Oceanic Travels",
+      "source": "Chennai",
+      "destination": "Pondicherry",
+      "route": "Chennai → Pondicherry",
+      "seats": [
+        "S32",
+        "S31",
+        "S28"
+      ],
+      "totalPrice": 1350,
+      "passengerName": "Shree",
+      "phone": "9898989898",
+      "user": "Shree2004@gmail.com",
+      "status": "CONFIRMED",
+      "createdAt": "2026-01-02T11:35:08.931Z"
+    },
+    {
+      "id": "b149",
+      "busId": "3",
+      "busName": "GreenLine Travels",
+      "source": "Bangalore",
+      "destination": "Chennai",
+      "route": "Bangalore → Chennai",
+      "seats": [
+        "S5",
+        "S6"
+      ],
+      "totalPrice": 1500,
+      "passengerName": "Akshay",
+      "phone": "9557381451",
+      "user": "a@gmail.com",
+      "status": "CONFIRMED",
+      "createdAt": "2026-01-05T13:33:48.979Z"
+    },
+    {
+      "id": "1397",
+      "busId": "10",
+      "busName": "Metro Travels",
+      "source": "Bangalore",
+      "destination": "Hyderabad",
+      "route": "Bangalore → Hyderabad",
+      "seats": [
+        "S14",
+        "S10"
+      ],
+      "totalPrice": 1800,
+      "passengerName": "shree",
+      "phone": "9090909090",
+      "user": "a@gmail.com",
+      "status": "CONFIRMED",
+      "createdAt": "2026-01-05T13:40:04.854Z"
+    },
+    {
+      "id": "e149",
+      "busId": "10",
+      "busName": "Metro Travels",
+      "source": "Bangalore",
+      "destination": "Hyderabad",
+      "route": "Bangalore → Hyderabad",
+      "seats": [
+        "S14",
+        "S10"
+      ],
+      "totalPrice": 1800,
+      "passengerName": "shreedharan",
+      "phone": "9098765677",
+      "user": "a@gmail.com",
+      "status": "CONFIRMED",
+      "createdAt": "2026-01-05T13:40:37.273Z"
+    },
+    {
+      "id": "b890",
+      "busId": "20",
+      "busName": "Urban Connect",
+      "source": "Chennai",
+      "destination": "Bangalore",
+      "route": "Chennai → Bangalore",
+      "seats": [
+        "S36",
+        "S35"
+      ],
+      "totalPrice": 1840,
+      "passengerName": "shree",
+      "phone": "9898989898",
+      "user": "Shree@gmail.com",
+      "status": "CONFIRMED",
+      "createdAt": "2026-01-08T05:17:50.860Z"
+    },
+    {
+      "id": "81ac",
+      "busId": "10",
+      "busName": "Metro Travels",
+      "source": "Bangalore",
+      "destination": "Hyderabad",
+      "route": "Bangalore → Hyderabad",
+      "seats": [
+        "S7",
+        "S11",
+        "S8"
+      ],
+      "totalPrice": 2700,
+      "passengerName": "Akshay",
+      "phone": "1234567890",
+      "user": "Shree@gmail.com",
+      "status": "CONFIRMED",
+      "createdAt": "2026-01-17T07:07:20.515Z"
+    }
+  ]
+}
