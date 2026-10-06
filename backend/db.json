@@ -45,7 +45,10 @@
       "price": 750,
       "totalSeats": 28,
       "rating": 4.3,
-      "bookedSeats": []
+      "bookedSeats": [
+        "S11",
+        "S12"
+      ]
     },
     {
       "id": "4",
@@ -381,6 +384,24 @@
       "user": "Shree@gmail.com",
       "status": "CONFIRMED",
       "createdAt": "2026-01-17T07:07:20.515Z"
+    },
+    {
+      "id": "80f5",
+      "busId": "3",
+      "busName": "GreenLine Travels",
+      "source": "Bangalore",
+      "destination": "Chennai",
+      "route": "Bangalore → Chennai",
+      "seats": [
+        "S11",
+        "S12"
+      ],
+      "totalPrice": 1500,
+      "passengerName": "Sh",
+      "phone": "9898989898",
+      "user": "Shree@gmail.com",
+      "status": "CONFIRMED",
+      "createdAt": "2026-10-06T07:32:48.052Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
 import LoginPage from "../Pages/LoginPage";
-import HomePage from "../pages/HomePage";
-import BookingSuccess from "../pages/BookingSuccess";
-import BusesPage from "../pages/BusesPage";
+import HomePage from "../Pages/HomePage";
+import BookingSuccess from "../Pages/BookingSuccess";
+import BusesPage from "../Pages/BusesPage";
 import SeatPage from "../Pages/SeatPage";
 import PassengerDetails from "../Pages/PassengerDetails";
 import BookingHistory from "../Pages/BookingHistory";
