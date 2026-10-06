@@ -254,19 +254,33 @@ This project demonstrates practical knowledge of:
 
 ## 📸 Screenshots
 
-Add your project screenshots here:
 
-```markdown
-![Login Page](screenshots/login.png)
+### 🏠 User Bus List
+![User Bus List](./images/User_BusList.png)
 
-![Bus Search](screenshots/bus-search.png)
+### 🚌 User Booking
+![User Booking](./images/User_Booking.png)
 
-![Bus List](screenshots/bus-list.png)
+### 💺 Seat Selection
+![Seat Selection](./images/SeatSelection.png)
 
-![Seat Selection](screenshots/seat-selection.png)
+### 🎫 Booking Confirmation
+![Booking Confirmation](./images/Booking_Confirmation.png)
 
-![Booking Summary](screenshots/booking-summary.png)
-```
+### 📋 My Bookings
+![My Bookings](./images/My_Bookings.png)
+
+### 🔐 Login
+![Login](./images/login.png)
+
+### 📝 Signup
+![Signup](./images/Signup.png)
+
+### 👨‍💼 Admin Manage Buses
+![Admin Manage Buses](./images/Admin_manage.png)
+
+### ✏️ Admin Edit Bus
+![Admin Edit Bus](./images/Admin_edit.png)
 
 ## 🔮 Future Enhancements
 
