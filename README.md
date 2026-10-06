@@ -297,7 +297,6 @@ This project demonstrates practical knowledge of:
 ## 👨‍💻 Author
 
 **Shreedharan S**
-
 B.Sc. Information Technology  
 Full Stack Developer
 
