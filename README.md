@@ -293,8 +293,3 @@ Full Stack Developer
 `Java` `Spring Boot` `React.js` `JavaScript` `MySQL` `REST API` `Git` `GitHub`
 
 ---
-
-⭐ **If you find this project useful, consider giving it a star!**
-
-**GitHub Repository:**  
-https://github.com/Shreedharann/Ticket-Booking/
